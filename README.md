@@ -1,27 +1,27 @@
 <h2 align="center">🐈🐈🐈</h2>
 
-###
+<h3 align="center">
+  blanche/blnchdev 
+  <br>
+  <a href="https://blanche.dev" target="_blank"">blanche.dev</a>
+</h3>
 
 <h4 align="center">
-French girl working on games, reversing malware, cheats and anti-cheats
-<br>Specialized in Reverse Engineering and Malware Analysis, specifically on modern Win32 environments
-<br>Expert in C, C++ and Assembly
-<br>Knowledgeable in Lua and currently learning Kotlin
+  🎮 French girl reversing malware, building cheats & anti-cheats  <br>
+  🔍 Specialized in Reverse Engineering & Malware Analysis (modern Win32 focus)  <br>
+  🧠 Expert in C, C++ and Assembly - comfy in Lua, learning Kotlin  <br>
 </h4>
 
-###
+<br>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="C Logo"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="C++ Logo"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="C# Logo"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="30" alt="Lua logo"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="Kotlin logo"/>
-  <img width="12" />
-</div>
+<p align="center">
+  <a href="https://blanche.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,lua,kotlin&theme=dark" />
+  </a>
+</p>
 
-###
+<h4 align="center">
+  🧪 Currently working on: <br>
+  - Modern Memory Dissector with features borrowed from many different software <br>
+  - E2E Direct Chat Application
+</h4>
