@@ -12,9 +12,9 @@
 
 ### About
 
-I reverse malware and mess with Win32 internals. Most of my work involves writing tools for dynamic analysis, syscall hooking, and various stealth techniques. Also prototype anti-cheat bypasses and exploitation methods when I'm bored.
+I reverse malware and mess with Win32 internals!  
 
-Been writing C++ for 5+ years, comfortable with x86/x64 assembly and NT internals. Spend most of my time in IDA Pro or debugging some cursed Windows behavior.
+Been writing C++ for 5+ years, comfortable with x86/x64 assembly and NT internals. Spend most of my time in IDA or ReClass...
 
 <p align="center">
   <a href="https://blanche.dev">
@@ -26,11 +26,11 @@ Been writing C++ for 5+ years, comfortable with x86/x64 assembly and NT internal
 
 ### Projects
 
-**[Aether](https://github.com/blnchdev/Aether)** - Dynamic syscall wrapper for Win32. Grabs syscall numbers at runtime so your code works across different Windows versions.
+**[Aether](https://github.com/blnchdev/Aether)** - Dynamic syscall wrapper for Win32. Grabs syscall indexes at runtime so your code works across different Windows versions.
 
-**[Wraith](https://github.com/blnchdev/Wraith)** - Steals existing process handles instead of opening new ones. Turns out most detection tools only watch for new handle creation.
+**[Wraith](https://github.com/blnchdev/Wraith)** - Steals existing process handles instead of opening new ones
 
-**Zephyr** *(WIP)* - DLL manual mapper with multiple methods of control flow hijacking.
+**Zephyr** *(WIP)* - DLL manual mapper with multiple methods of control flow hijacking
 
 **Currently working on:**
 - Memory dissector borrowing features from various analysis tools (a modern replacement to ReClass)
