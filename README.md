@@ -24,12 +24,11 @@ Been writing C++ for 5+ years, comfortable with x86/x64 assembly and NT internal
 
 ---
 
-### Projects
+### Public Projects
 
 **[Aether](https://github.com/blnchdev/Aether)** - Dynamic syscall wrapper for Win32. Grabs syscall indexes at runtime so your code works across different Windows versions.
-
-**[Wraith](https://github.com/blnchdev/Wraith)** - Steals existing process handles instead of opening new ones
-
+**[Clairvoyance](https://github.com/blnchdev/Clairvoyance)** - InstrumentationCallback Hooking Framework for Windows  
+**[Wraith](https://github.com/blnchdev/Wraith)** - Steals existing process handles instead of opening new ones  
 **Zephyr** *(WIP)* - DLL manual mapper with multiple methods of control flow hijacking
 
 **Currently working on:**
