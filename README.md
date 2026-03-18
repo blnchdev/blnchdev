@@ -5,16 +5,17 @@
 </h3>
 
 <p align="center">
-  Reverse Engineer & Malware Analyst
+  Systems Developer & Reverse Engineer
 </p>
 
 ---
 
 ### About
 
-I reverse malware and mess with Win32 internals!  
-
-Been writing C++ for 5+ years, comfortable with x86/x64 assembly and NT internals. Spend most of my time in IDA or ReClass...
+C++ developer focused on Windows internals and low-level tooling!!  
+Comfortable with x86/x64 assembly, NT internals and kernel-mode development  
+Occasionally nerd-rant about what I find or learn at [blog.blanche.dev](https://blog.blanche.dev) :3c  
+Lately reading about upcoming C++26 stuff! 
 
 <p align="center">
   <a href="https://blanche.dev">
@@ -28,8 +29,9 @@ Been writing C++ for 5+ years, comfortable with x86/x64 assembly and NT internal
 
 **[Aether](https://github.com/blnchdev/Aether)** - Dynamic syscall wrapper for Win32. Grabs syscall indexes at runtime so your code works across different Windows versions.
 **[Clairvoyance](https://github.com/blnchdev/Clairvoyance)** - InstrumentationCallback Hooking Framework for Windows  
-**[Wraith](https://github.com/blnchdev/Wraith)** - Steals existing process handles instead of opening new ones  
-**Zephyr** *(WIP)* - DLL manual mapper with multiple methods of control flow hijacking
+**Reflection** *(WIP)* - Modern ReClass equivalent with more features [(psst... here's a sneak peek as of March 2026!)](https://blanche.dev/img/Reflection/Teaser1.png)  
+**[Wraith](https://github.com/blnchdev/Wraith)** - Handle duplication utility; leverages existing process handles rather than opening new ones  
+**Zephyr** *(WIP)* - DLL manual mapper with multiple control flow redirection methods
 
 **Currently working on:**
 - Memory dissector borrowing features from various analysis tools (a modern replacement to ReClass)
@@ -39,6 +41,5 @@ Been writing C++ for 5+ years, comfortable with x86/x64 assembly and NT internal
 ---
 
 <p align="center">
-  <a href="mailto:pro@blanche.dev">pro@blanche.dev</a> • 
-  <a href="https://x.com/blnchdev">Twitter</a>
+  <a href="mailto:pro@blanche.dev">pro@blanche.dev</a>
 </p>
