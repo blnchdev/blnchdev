@@ -26,15 +26,12 @@ Occasionally writes about what I find or learn over at [blog.blanche.dev](https:
 
 ### Projects
 
-**[Aether](https://github.com/blnchdev/Aether)** — Dynamic syscall wrapper for Win32. Grabs syscall indexes at runtime, works across Windows versions.
-
-**[Clairvoyance](https://github.com/blnchdev/Clairvoyance)** — InstrumentationCallback hooking framework for Windows.
-
-**[Reflection](https://github.com/blnchdev/Reflection)** — Modern ReClass equivalent with extended features. 
-
-**[Wraith](https://github.com/blnchdev/Wraith)** — Handle duplication utility; leverages existing process handles rather than opening new ones.
-
-**Zephyr** *(wip)* — DLL manual mapper with multiple control flow redirection methods.
+**[Aether](https://github.com/blnchdev/Aether)** — Dynamic syscall wrapper for Win32. Grabs syscall indexes at runtime, works across Windows versions.  
+**[Clairvoyance](https://github.com/blnchdev/Clairvoyance)** — InstrumentationCallback hooking framework for Windows.  
+**[Reflection](https://github.com/blnchdev/Reflection)** *(Alpha)* — Modern ReClass equivalent with extended features.  
+**[RobotBuddy](https://github.com/blnchdev/RobotBuddy)** — Twitch bot to link League of Legends accounts and get live data.  
+**[Wraith](https://github.com/blnchdev/Wraith)** — Handle duplication utility; leverages existing process handles rather than opening new ones.  
+**[Zephyr](https://github.com/blnchdev/Zephyr)** *(wip)* — DLL manual mapper with multiple control flow redirection methods.  
 
 <hr>
 
